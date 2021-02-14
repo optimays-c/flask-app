@@ -1,1 +1,4 @@
+myprojectenv
 *.pyc
+.DS_Store
+.env
